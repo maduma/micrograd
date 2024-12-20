@@ -4,5 +4,5 @@
 - Install [Graphviz](https://graphviz.org/#download) executable 
 - Run jupyter lab
 ```
-uvx --with numpy --with matplotlib --with graphviz jupyter lab
+uvx --with numpy --with matplotlib --with graphviz --with jupyterlab --from jupyter-core jupyter lab
 ```
